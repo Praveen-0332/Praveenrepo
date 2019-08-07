@@ -12,6 +12,7 @@ namespace ConsoleAppraveen
         {
             string Name = "Praveen";
             string a = "hii praveen from amrutha";
+            string cherry;
         }
     }
 }
