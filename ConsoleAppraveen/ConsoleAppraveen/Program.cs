@@ -11,6 +11,7 @@ namespace ConsoleAppraveen
         static void Main(string[] args)
         {
             string Name = "Praveen";
+            string a = "hii praveen from amrutha";
         }
     }
 }
